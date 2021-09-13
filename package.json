@@ -205,7 +205,7 @@
     "@ungap/url-search-params": "^0.2.2",
     "babel-loader": "^8.2.5",
     "babel-plugin-transform-define": "^2.0.1",
-    "browserslist": "^4.16.6",
+    "browserslist": "^4.17.0",
     "change-case": "^4.1.1",
     "classnames": "^2.3.1",
     "combokeys": "^3.0.1",
