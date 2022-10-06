@@ -1,5 +1,6 @@
 process.env.IS_JEST = true;
 
+
 module.exports = {
   moduleNameMapper: {
     '\\.(gif|ico|md|txt)$': '<rootDir>/__mocks__/fileMock.js',
